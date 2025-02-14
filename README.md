@@ -8,10 +8,9 @@ The purpose of this project is to facilitate donations and provide information a
 
 ## Tools and Technologies
 - **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, Express (if applicable)
-- **Database**: MongoDB (if applicable)
+- **Backend**: Node.js
 - **Build Tools**: Vite, ESLint
-- **Deployment**: Vercel, Netlify (if applicable)
+- **Deployment**: Netlify 
 
 ## Features
 - Donation functionality
