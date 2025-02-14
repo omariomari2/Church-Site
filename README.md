@@ -1,8 +1,19 @@
-# React + Vite
+# Project Title
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This project is a web application designed to support the community through various church activities and projects. It aims to provide a platform for donations, project updates, and community engagement.
 
-Currently, two official plugins are available:
+## Purpose
+The purpose of this project is to facilitate donations and provide information about church activities, helping to foster a sense of community and support for various initiatives.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tools and Technologies
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Node.js, Express (if applicable)
+- **Database**: MongoDB (if applicable)
+- **Build Tools**: Vite, ESLint
+- **Deployment**: Vercel, Netlify (if applicable)
+
+## Features
+- Donation functionality
+- Project updates and galleries
+- Community engagement tools
